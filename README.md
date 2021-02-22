@@ -7,7 +7,7 @@ The technologies used are HTML and CSS Flexbox.
 
 ## View:
 
-![Alt text](./img/homepage.png/ "Layout")
+![Alt text](./img/ "Layout")
 
 
 
